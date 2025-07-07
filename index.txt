@@ -1,0 +1,36 @@
+<html>
+<head>
+ <meta neme="robots"
+content="noindex">
+<div class="#708090">
+</div>
+<font face="ＭＳ 明朝">
+</font>
+</head>
+<title>T甲用</title>
+<body>
+<center>
+ <h1>僕らの夢について。</h1>
+</center> 
+<p>
+<h2></h2>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+</body>
+</html>
